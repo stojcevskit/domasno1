@@ -1,7 +1,12 @@
-<h1><center> Впечатоци од првото предавање по МСП </center></h1>
+<h1><center> Vpechatoci od prvoto predavanje vo Veles </center></h1>
 <br>
-Одржано на 03.Mart.2016 god, од Професорот **Илија Јолевски!**
+Odrzano na 03.Mart.2016 god, od Profesorot **Ilija Jolevski**
 <br>
 <br>
-<h3><center>Вовед</center></h3>
+<h3><center>Voved</center></h3>
 <br></br>
+
+
+**test**
+<br></br>
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
