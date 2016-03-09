@@ -15,7 +15,6 @@ Odrzano na 03.Mart.2016 god, od Profesorot [**Ilija Jolevski**](http://www.fikt.
  <p>
  Vo ovaa faza potrebno e da se izbere programskiot jazik vo koj ke se raboti proektot.
 
- Razgledani se 24 slajda na tema sto se e potrebno a sto ne , vo izrabotka na eden programerski proekt.
 
 Bese objasneto sto e toa Softversko inzenersto , odnosno deka toa e procesot na kreiranjeto na softwer..
 </p>
